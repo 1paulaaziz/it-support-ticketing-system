@@ -81,5 +81,3 @@ Then open the local Vite URL shown in the terminal.
 - Add email or Slack-style notifications
 - Deploy the front end to a cloud hosting service
 
-## Privacy/Security
-Do not upload real customer data, real employee data, private work files, or credentials.
